@@ -1,5 +1,5 @@
 # Apriltag guided landing
-Here is an algorithm for guided precesion landing of a micro drone like DJI Tello.
+Here is an algorithm for guided precision landing of a micro drone like DJI Tello.
 
 ## Why Apriltag ?
 Apriltags are good tool in robotics and are used to localize the camera or the tag itself.
